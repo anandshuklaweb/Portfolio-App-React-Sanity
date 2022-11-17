@@ -1,5 +1,5 @@
 # Portfolio Web App
-Fitness App Using React.js, Sanity, SCSS and more.
+Portfolio Web App Using React.js, Sanity, SCSS and more.
 
 Demo: https://portfolio-reacts.netlify.app/
 
